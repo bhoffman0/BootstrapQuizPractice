@@ -1,0 +1,24 @@
+body {
+  background-image: url('https://pixabay.com/get/g665289be41fd2278210e8a25dbdf7a31a61fe79dfbd07ed0ab79f885c22be63dcddf08336d603c2908085df4a85c59d17253f8d5c4576c69586fe180b67b77c46fcb32adddf018c9241417916c4e65e8_640.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#mycontainer {
+  background-color: white;
+  width: 80%;
+  margin: auto;
+  opacity: .8;
+  height: 600px;
+}
+
+#mynavbar {
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
